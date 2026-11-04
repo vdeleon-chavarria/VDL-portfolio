@@ -33,8 +33,8 @@ For a complete architectural breakdown, structural component analysis, and sanit
 ---
 
 #### Key Technical Takeaways
-  *   **Compilation Flow:** Analyzed compiler behavior and optimization flags by tracing the output of `a.out` against raw code executions.
-  *   **System Profiling:** Documented terminal environment variables and text formatting constraints within `tpsAnswers.txt`.
+  *   **Compilation Flow:** Analyzed compiler behavior and optimization flags by tracing the output of `a.out` against raw code executions. - Project 1
+  *   **System Profiling:** Documented terminal environment variables and text formatting constraints within `tpsAnswers.txt`. - Project 1
 ---
 
 ## Let's Connect!
