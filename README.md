@@ -27,7 +27,9 @@ This is a list of courses I have taken within UC Merced to help understand the i
 
 ### 1. CSE 031 - Lab 1: Introduction to C
 This project explores foundational system concepts, including pointer arithmetic, procedural logic, and memory-safe input handling in C.
-> For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[[CSE-031-Lab-1-Introduction-to-C]]** wiki page.
+
+For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 031: Lab 1 - Introduction to C](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-031:-Lab-1-%E2%80%90-Introduction-to-C)** wiki page.
+
 ---
 
 #### Key Technical Takeaways
