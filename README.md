@@ -30,11 +30,18 @@ This project explores foundational system concepts, including pointer arithmetic
 
 For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 031: Lab 1 - Introduction to C](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-031:-Lab-1-%E2%80%90-Introduction-to-C)** wiki page.
 
+### 2. CSE 031 - Lab 2: GDB and Pointers
+This project explores GDB debugging techniques, array copying procedures, pointer manipulation, and memory-safe program structures in C.
+
+For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 031: Lab 2 - GDB and Pointers](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-031:-Lab-2-%E2%80%90-GDB-and-Pointers)** wiki page.
+
 ---
 
 #### Key Technical Takeaways
   *   **Compilation Flow:** Analyzed compiler behavior and optimization flags by tracing the output of `a.out` against raw code executions. - Project 1
   *   **System Profiling:** Documented terminal environment variables and text formatting constraints within `tpsAnswers.txt`. - Project 1
+  *   **Debugging with GDB:** Utilized breakpoints, step execution, and backtraces to isolate and resolve segmentation faults and logic bugs in pointer-heavy C code. - Project 2
+  *   **Memory & Pointers:** Mastered pointer arithmetic, address referencing, and safe array manipulation in compliance with systems programming best practices. - Project 2
 ---
 
 ## Let's Connect!
