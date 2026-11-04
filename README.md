@@ -35,6 +35,11 @@ This project explores GDB debugging techniques, array copying procedures, pointe
 
 For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 031: Lab 2 - GDB and Pointers](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-031:-Lab-2-%E2%80%90-GDB-and-Pointers)** wiki page.
 
+### 3. CSE 031 - Lab 3: Memory in C
+This project explores dynamic memory allocation, array manipulation, struct definition, and linked list operations in C. The goal of this lab is to deepen my understanding of heap-allocated memory, custom node structures, and recursive data structures such as linked lists.
+
+For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 031: Lab 3 - Memory in C](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-031:-Lab-3-%E2%80%90-Memory-in-C)** wiki page.
+
 ---
 
 #### Key Technical Takeaways
@@ -42,6 +47,8 @@ For a complete architectural breakdown, structural component analysis, and sanit
   *   **System Profiling:** Documented terminal environment variables and text formatting constraints within `tpsAnswers.txt`. - Project 1
   *   **Debugging with GDB:** Utilized breakpoints, step execution, and backtraces to isolate and resolve segmentation faults and logic bugs in pointer-heavy C code. - Project 2
   *   **Memory & Pointers:** Mastered pointer arithmetic, address referencing, and safe array manipulation in compliance with systems programming best practices. - Project 2
+  *   **Heap Memory Management:** Gained hands-on experience using `malloc`, `calloc`, and `free` to prevent memory leaks and handle runtime allocations. - Project 3
+  *   **Advanced Data Structures:** Implemented complex pointer-based logic to traverse, validate, and manipulate custom structs and linked lists. - Project 3
 ---
 
 ## Let's Connect!
