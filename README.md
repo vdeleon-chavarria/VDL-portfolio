@@ -4,7 +4,7 @@ Welcome! This repository serves as a public showcase for my projects and coding 
 
 > **Note on Privacy:** The full source code for these projects is hosted in private repositories due to proprietary data, to adhere to academic integrity guidelines, and to protect core solutions. However, I have provided architecture overviews, deep dives, and isolated, sanitized code samples below.
 > 
-> *If you are a hiring manager and would like temporary collaborator access to a specific private repository, please reach out to me via LinkedIn or email found below.*
+> *If you are a hiring manager and would like temporary collaborator access to a specific private repository, please reach out to me via [LinkedIn](https://www.linkedin.com/in/valerie-de-leon-231444247/) or [email](mailto:valerie@valerie-deleon.com).*
 
 ---
 ## Global Technical Skills
@@ -39,6 +39,6 @@ For a complete architectural breakdown, structural component analysis, and sanit
 
 ## Let's Connect!
 
-*   **LinkedIn:** [Valerie De Leon-Chavarria]([https://linkedin.com](https://www.linkedin.com/in/valerie-de-leon-231444247/))
+*   **LinkedIn:** [Valerie De Leon-Chavarria](https://www.linkedin.com/in/valerie-de-leon-231444247/)
 *   **Email:** valerie@valerie-deleon.com
-*   **Personal Website:** [valerie-deleon.com]([https://yourportfolio.com](https://valerie-deleon.com/))
+*   **Personal Website:** [valerie-deleon.com](https://valerie-deleon.com/)
