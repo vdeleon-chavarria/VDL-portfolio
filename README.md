@@ -40,6 +40,11 @@ This project explores dynamic memory allocation, array manipulation, struct defi
 
 For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 031: Lab 3 - Memory in C](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-031:-Lab-3-%E2%80%90-Memory-in-C)** wiki page.
 
+### 4. CSE 031 - Lab 4: More Memory in C
+This project explores multidimensional arrays, dynamic memory allocation for 2D structures, matrix multiplication algorithms, and memory casting in C. The goal of this lab is to understand how contiguous memory blocks represent multi-dimensional matrices and how to manage data type casting safely.
+
+For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 031: Lab 4 - More Memory in C](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-031:-Lab-4-%E2%80%90-More-Memory-in-C)** wiki page.
+
 ---
 
 #### Key Technical Takeaways
@@ -49,6 +54,8 @@ For a complete architectural breakdown, structural component analysis, and sanit
   *   **Memory & Pointers:** Mastered pointer arithmetic, address referencing, and safe array manipulation in compliance with systems programming best practices. - Project 2
   *   **Heap Memory Management:** Gained hands-on experience using `malloc`, `calloc`, and `free` to prevent memory leaks and handle runtime allocations. - Project 3
   *   **Advanced Data Structures:** Implemented complex pointer-based logic to traverse, validate, and manipulate custom structs and linked lists. - Project 3
+  *   **Multidimensional Memory Allocation:** Mastered the creation and destruction of dynamic 2D arrays using pointer-to-pointer structures. - Project 4
+  *   **Algorithmic Computation:** Implemented matrix multiplication logic while managing row-column indexing constraints and pointer casting safely. - Project 4
 ---
 
 ## Let's Connect!
