@@ -45,6 +45,11 @@ This project explores multidimensional arrays, dynamic memory allocation for 2D 
 
 For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 031: Lab 4 - More Memory in C](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-031:-Lab-4-%E2%80%90-More-Memory-in-C)** wiki page.
 
+### 5. CSE 031 - Lab 5: Intro to MIPS
+This project explores MIPS assembly language programming, register management, arithmetic operations, and execution workflows using the MARS MIPS simulator. The goal of this lab is to understand low-level instruction sets, branching control flow, and iterative sequence generation in assembly.
+
+For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 031: Lab 5 - Intro to MIPS](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-031:-Lab-5-%E2%80%90-Into-to-MIPS)** wiki page.
+
 ---
 
 #### Key Technical Takeaways
@@ -56,6 +61,8 @@ For a complete architectural breakdown, structural component analysis, and sanit
   *   **Advanced Data Structures:** Implemented complex pointer-based logic to traverse, validate, and manipulate custom structs and linked lists. - Project 3
   *   **Multidimensional Memory Allocation:** Mastered the creation and destruction of dynamic 2D arrays using pointer-to-pointer structures. - Project 4
   *   **Algorithmic Computation:** Implemented matrix multiplication logic while managing row-column indexing constraints and pointer casting safely. - Project 4
+  *   **MIPS Instruction Set Architecture:** Gained proficiency in writing, executing, and debugging assembly instructions using registers and memory operands. - Project 5
+  *   **Simulator Navigation:** Mastered the MARS IDE for stepping through execution, observing register states, and tracing instruction cycles. - Project 5
 ---
 
 ## Let's Connect!
