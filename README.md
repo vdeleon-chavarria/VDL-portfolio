@@ -65,6 +65,11 @@ This project explores advanced recursive algorithms, deep stack frame allocation
 
 For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 031: Lab 8 - More Procedures in MIPS](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-031:-Lab-8-%E2%80%90-More-Procedures-in-MIPS)** wiki page.
 
+### 9. CSE 031 - Lab 9: Machine Language
+This project explores advanced MIPS assembly subroutines, memory alignment rules, stack preservation, and integration workflows. The goal of this lab is to solidify low-level execution concepts, complex argument passing, and structured technical documentation.
+
+For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 031: Lab 9 - Machine Language](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-031:-Lab-9-%E2%80%90-Machine-Language)** wiki page.
+
 ---
 
 #### Key Technical Takeaways
@@ -84,6 +89,8 @@ For a complete architectural breakdown, structural component analysis, and sanit
   *   **Register Conventions:** Mastered the rules for caller-saved versus callee-saved registers to ensure data integrity across function boundaries. - Project 7
   *   **Activation Records:** Gained mastery over how stack frames are pushed and popped during recursive execution loops. - Project 8
   *   **Low-Level Debugging:** Applied step-by-step register tracing in simulation environments to resolve recursive boundary errors. - Project 8
+  *   **System Integration:** Mastered the translation of complex control logic into reliable assembly subroutines. - Project 9
+  *   **Debugging Rigor:** Utilized systematic trace analysis to verify memory alignment and stack correctness. - Project 9
 ---
 
 ## Let's Connect!
