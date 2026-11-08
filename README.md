@@ -60,6 +60,11 @@ This project explores advanced MIPS assembly programming, conditional branching 
 
 For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 031: Lab 7 - Procedures in MIPS](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-031:-Lab-7-%E2%80%90-Procedures-in-MIPS)** wiki page.
 
+### 8. CSE 031 - Lab 8: More Procedures in MIPS
+This project explores advanced recursive algorithms, deep stack frame allocations, and recursive function translations in MIPS assembly. The goal of this lab is to understand how recursive function calls manage multiple activation records on the software stack.
+
+For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 031: Lab 8 - More Procedures in MIPS](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-031:-Lab-8-%E2%80%90-More-Procedures-in-MIPS)** wiki page.
+
 ---
 
 #### Key Technical Takeaways
@@ -77,6 +82,8 @@ For a complete architectural breakdown, structural component analysis, and sanit
   *   **Control Flow Logic:** Mastered conditional evaluation and branch structuring in low-level assembly environments. - Project 6
   *   **Stack Frame Management:** Gained hands-on experience allocating and deallocating stack memory using `$sp` during nested subroutine execution. - Project 7
   *   **Register Conventions:** Mastered the rules for caller-saved versus callee-saved registers to ensure data integrity across function boundaries. - Project 7
+  *   **Activation Records:** Gained mastery over how stack frames are pushed and popped during recursive execution loops. - Project 8
+  *   **Low-Level Debugging:** Applied step-by-step register tracing in simulation environments to resolve recursive boundary errors. - Project 8
 ---
 
 ## Let's Connect!
