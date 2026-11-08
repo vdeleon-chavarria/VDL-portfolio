@@ -53,7 +53,7 @@ For a complete architectural breakdown, structural component analysis, and sanit
 ### 6. CSE 031 - Lab 6: Loops in MIPS
 This project explores advanced MIPS assembly programming, conditional branching logic, stack frame management, and recursive subroutine execution. The goal of this lab is to deepen understanding of control flow structures, conditional comparisons, and register preservation using the software stack.
 
-For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 031: Lab 6 - Loops in MIPS](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-030:-Lab-6-%E2%80%90-Loops-in-MIPS)** wiki page.
+For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 031: Lab 6 - Loops in MIPS](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-031:-Lab-6-%E2%80%90-Loops-in-MIPS)** wiki page.
 
 ---
 
