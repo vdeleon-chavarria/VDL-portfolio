@@ -55,6 +55,11 @@ This project explores advanced MIPS assembly programming, conditional branching 
 
 For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 031: Lab 6 - Loops in MIPS](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-031:-Lab-6-%E2%80%90-Loops-in-MIPS)** wiki page.
 
+### 7. CSE 031 - Lab 7: Procedures in MIPS
+This project explores advanced MIPS assembly programming, conditional branching logic, stack frame management, and recursive subroutine execution. The goal of this lab is to deepen understanding of control flow structures, conditional comparisons, and register preservation using the software stack.
+
+For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 031: Lab 7 - Procedures in MIPS](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-031:-Lab-7-%E2%80%90-Procedures-in-MIPS)** wiki page.
+
 ---
 
 #### Key Technical Takeaways
@@ -70,6 +75,8 @@ For a complete architectural breakdown, structural component analysis, and sanit
   *   **Simulator Navigation:** Mastered the MARS IDE for stepping through execution, observing register states, and tracing instruction cycles. - Project 5
   *   **Stack Management:** Gained practical experience pushing and popping registers from the stack frame during subroutine calls. - Project 6
   *   **Control Flow Logic:** Mastered conditional evaluation and branch structuring in low-level assembly environments. - Project 6
+  *   **Stack Frame Management:** Gained hands-on experience allocating and deallocating stack memory using `$sp` during nested subroutine execution. - Project 7
+  *   **Register Conventions:** Mastered the rules for caller-saved versus callee-saved registers to ensure data integrity across function boundaries. - Project 7
 ---
 
 ## Let's Connect!
