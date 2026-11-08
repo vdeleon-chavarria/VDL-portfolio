@@ -70,6 +70,11 @@ This project explores advanced MIPS assembly subroutines, memory alignment rules
 
 For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 031: Lab 9 - Machine Language](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-031:-Lab-9-%E2%80%90-Machine-Language)** wiki page.
 
+### 10. CSE 031 - Lab 10: Cache
+This project concludes the low-level systems coursework by exploring final system integration, advanced hardware architectures, and comprehensive technical documentation in MIPS assembly. The goal of this lab is to synthesize the quarter's learnings into robust analytical insights and structured technical problem-solving.
+
+For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 031: Lab 10 - Cache](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-031:-Lab-10-%E2%80%90-Cache)** wiki page.
+
 ---
 
 #### Key Technical Takeaways
@@ -91,6 +96,8 @@ For a complete architectural breakdown, structural component analysis, and sanit
   *   **Low-Level Debugging:** Applied step-by-step register tracing in simulation environments to resolve recursive boundary errors. - Project 8
   *   **System Integration:** Mastered the translation of complex control logic into reliable assembly subroutines. - Project 9
   *   **Debugging Rigor:** Utilized systematic trace analysis to verify memory alignment and stack correctness. - Project 9
+  *   **Comprehensive Architecture Mastery:** Solidified full-stack understanding of how high-level C code compiles down to executable machine instructions and hardware states. - Project 10
+  *   **Technical Communication:** Enhanced documentation precision through rigorous individual assignments and technical analyses. - Project 10
 ---
 
 ## Let's Connect!
