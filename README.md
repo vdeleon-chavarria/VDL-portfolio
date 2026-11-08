@@ -75,29 +75,36 @@ This project concludes the low-level systems coursework by exploring final syste
 
 For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 031: Lab 10 - Cache](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-031:-Lab-10-%E2%80%90-Cache)** wiki page.
 
+### 11. CSE 031 - Project 1: Word Search Puzzle
+This project explores multi-dimensional array parsing, string matching algorithms, dynamic memory allocation, and file input/output handling in C. The goal of this project is to build a fully functional word search solver capable of processing custom puzzle grids and dictionary files.
+
+For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 031: Project 1 - Word Search Puzzle](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-031:-Project-1-%E2%80%90-Word-Search-Puzzle)** wiki page.
+
 ---
 
 #### Key Technical Takeaways
-  *   **Compilation Flow:** Analyzed compiler behavior and optimization flags by tracing the output of `a.out` against raw code executions. - Project 1
-  *   **System Profiling:** Documented terminal environment variables and text formatting constraints within `tpsAnswers.txt`. - Project 1
-  *   **Debugging with GDB:** Utilized breakpoints, step execution, and backtraces to isolate and resolve segmentation faults and logic bugs in pointer-heavy C code. - Project 2
-  *   **Memory & Pointers:** Mastered pointer arithmetic, address referencing, and safe array manipulation in compliance with systems programming best practices. - Project 2
-  *   **Heap Memory Management:** Gained hands-on experience using `malloc`, `calloc`, and `free` to prevent memory leaks and handle runtime allocations. - Project 3
-  *   **Advanced Data Structures:** Implemented complex pointer-based logic to traverse, validate, and manipulate custom structs and linked lists. - Project 3
-  *   **Multidimensional Memory Allocation:** Mastered the creation and destruction of dynamic 2D arrays using pointer-to-pointer structures. - Project 4
-  *   **Algorithmic Computation:** Implemented matrix multiplication logic while managing row-column indexing constraints and pointer casting safely. - Project 4
-  *   **MIPS Instruction Set Architecture:** Gained proficiency in writing, executing, and debugging assembly instructions using registers and memory operands. - Project 5
-  *   **Simulator Navigation:** Mastered the MARS IDE for stepping through execution, observing register states, and tracing instruction cycles. - Project 5
-  *   **Stack Management:** Gained practical experience pushing and popping registers from the stack frame during subroutine calls. - Project 6
-  *   **Control Flow Logic:** Mastered conditional evaluation and branch structuring in low-level assembly environments. - Project 6
-  *   **Stack Frame Management:** Gained hands-on experience allocating and deallocating stack memory using `$sp` during nested subroutine execution. - Project 7
-  *   **Register Conventions:** Mastered the rules for caller-saved versus callee-saved registers to ensure data integrity across function boundaries. - Project 7
-  *   **Activation Records:** Gained mastery over how stack frames are pushed and popped during recursive execution loops. - Project 8
-  *   **Low-Level Debugging:** Applied step-by-step register tracing in simulation environments to resolve recursive boundary errors. - Project 8
-  *   **System Integration:** Mastered the translation of complex control logic into reliable assembly subroutines. - Project 9
-  *   **Debugging Rigor:** Utilized systematic trace analysis to verify memory alignment and stack correctness. - Project 9
-  *   **Comprehensive Architecture Mastery:** Solidified full-stack understanding of how high-level C code compiles down to executable machine instructions and hardware states. - Project 10
-  *   **Technical Communication:** Enhanced documentation precision through rigorous individual assignments and technical analyses. - Project 10
+  *   **Compilation Flow:** Analyzed compiler behavior and optimization flags by tracing the output of `a.out` against raw code executions. - Featured Project 1
+  *   **System Profiling:** Documented terminal environment variables and text formatting constraints within `tpsAnswers.txt`. - Featured Project 1
+  *   **Debugging with GDB:** Utilized breakpoints, step execution, and backtraces to isolate and resolve segmentation faults and logic bugs in pointer-heavy C code. - Featured Project 2
+  *   **Memory & Pointers:** Mastered pointer arithmetic, address referencing, and safe array manipulation in compliance with systems programming best practices. - Featured Project 2
+  *   **Heap Memory Management:** Gained hands-on experience using `malloc`, `calloc`, and `free` to prevent memory leaks and handle runtime allocations. - Featured Project 3
+  *   **Advanced Data Structures:** Implemented complex pointer-based logic to traverse, validate, and manipulate custom structs and linked lists. - Featured Project 3
+  *   **Multidimensional Memory Allocation:** Mastered the creation and destruction of dynamic 2D arrays using pointer-to-pointer structures. - Featured Project 4
+  *   **Algorithmic Computation:** Implemented matrix multiplication logic while managing row-column indexing constraints and pointer casting safely. - Featured Project 4
+  *   **MIPS Instruction Set Architecture:** Gained proficiency in writing, executing, and debugging assembly instructions using registers and memory operands. - Featured Project 5
+  *   **Simulator Navigation:** Mastered the MARS IDE for stepping through execution, observing register states, and tracing instruction cycles. - Featured Project 5
+  *   **Stack Management:** Gained practical experience pushing and popping registers from the stack frame during subroutine calls. - Featured Project 6
+  *   **Control Flow Logic:** Mastered conditional evaluation and branch structuring in low-level assembly environments. - Featured Project 6
+  *   **Stack Frame Management:** Gained hands-on experience allocating and deallocating stack memory using `$sp` during nested subroutine execution. - Featured Project 7
+  *   **Register Conventions:** Mastered the rules for caller-saved versus callee-saved registers to ensure data integrity across function boundaries. - Featured Project 7
+  *   **Activation Records:** Gained mastery over how stack frames are pushed and popped during recursive execution loops. - Featured Project 8
+  *   **Low-Level Debugging:** Applied step-by-step register tracing in simulation environments to resolve recursive boundary errors. - Featured Project 8
+  *   **System Integration:** Mastered the translation of complex control logic into reliable assembly subroutines. - Featured Project 9
+  *   **Debugging Rigor:** Utilized systematic trace analysis to verify memory alignment and stack correctness. - Featured Project 9
+  *   **Comprehensive Architecture Mastery:** Solidified full-stack understanding of how high-level C code compiles down to executable machine instructions and hardware states. - Featured Project 10
+  *   **Technical Communication:** Enhanced documentation precision through rigorous individual assignments and technical analyses. - Featured Project 10
+  *   **File Stream Management:** Gained proficiency in parsing structured text files to build dynamic multi-dimensional matrices in C. - Featured Project 11
+  *   **Algorithmic Traversal:** Mastered 8-way directional search indexing and boundary condition checking for matrix-based problems. - Featured Project 11
 ---
 
 ## Let's Connect!
