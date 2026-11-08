@@ -80,6 +80,11 @@ This project explores multi-dimensional array parsing, string matching algorithm
 
 For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 031: Project 1 - Word Search Puzzle](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-031:-Project-1-%E2%80%90-Word-Search-Puzzle)** wiki page.
 
+### 12. CSE 031 - Project 2: Average Scores
+This project explores statistical data processing, floating-point arithmetic, array summation, and low-level translation between C and MIPS assembly. The goal of this project is to implement robust score calculation engines that handle dynamic inputs, file outputs, and rigorous testing routines.
+
+For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 031: Project 2 - Average Scores](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-031:-Project-2-%E2%80%90-Average-Scores)** wiki page.
+
 ---
 
 #### Key Technical Takeaways
@@ -105,6 +110,8 @@ For a complete architectural breakdown, structural component analysis, and sanit
   *   **Technical Communication:** Enhanced documentation precision through rigorous individual assignments and technical analyses. - Featured Project 10
   *   **File Stream Management:** Gained proficiency in parsing structured text files to build dynamic multi-dimensional matrices in C. - Featured Project 11
   *   **Algorithmic Traversal:** Mastered 8-way directional search indexing and boundary condition checking for matrix-based problems. - Featured Project 11
+  *   **C-to-Assembly Translation:** Mastered translating high-level arithmetic and looping constructs into low-level MIPS code - Featured Project 12
+  *   **Testing Rigor:** Verified functional correctness across diverse input ranges using automated test runs. - Featured Project 12
 ---
 
 ## Let's Connect!
