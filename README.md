@@ -119,6 +119,11 @@ This project explores advanced C++ algorithms, performance optimization, custom 
 
 For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 100: Lab 5 - Radixsort](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-100:-Lab-5-%E2%80%90-Radixsort)** wiki page.
 
+### 19. CSE 100 - Lab 6: Binary Search Trees
+This project explores advanced C++ algorithmic design, memory management, Makefile build automation, and rigorous testing workflows. The goal of this assignment is to develop robust, production-grade C++ components capable of solving complex data processing tasks while adhering to strict performance and compilation standards.
+
+For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 100: Lab 6 - Binary Search Trees](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-100:-Lab-6-%E2%80%90-Binary-Search-Trees)** wiki page.
+
 ---
 
 #### Key Technical Takeaways
@@ -158,6 +163,8 @@ For a complete architectural breakdown, structural component analysis, and sanit
   *   **Regression Testing:** Strengthened capability to utilize automated test suites for validating software correctness under strict performance constraints. - Featured Project 17
   *   **Algorithmic Efficiency:** Mastered the implementation of advanced time-complexity optimizations and efficient data structures in C++. - Featured Project 18
   *   **Regression Testing:** Strengthened proficiency in building, profiling, and benchmarking software against rigorous automated test suites. - Featured Project 18
+  *   **Advanced C++ Proficiency:** Mastered complex algorithmic design, custom class structuring, and memory-safe paradigms. - Featured Project 19
+  *   **Build Automation & Testing:** Strengthened capability to construct modular Makefiles and execute multi-file automated test suites. - Featured Project 19
 ---
 
 ## Let's Connect!
