@@ -22,6 +22,10 @@ This is a list of courses I have taken within UC Merced to help understand the i
 * **Term:** Spring 2025
 * **Course Description:** Exposes students to the underlying structure of machines. Starting from C programming, pointers, data representation, MIPS instruction-set, Compilation process and down to Hardware implementation.
 
+### 2. CSE 100 - Algorithm Design and Analysis
+* **Professor:** Hua Huang
+* **Term:** Spring 2025
+* **Course Description:** Introduction to the design and analysis of computer algorithms. Topics will include concepts of algorithm complexity, and various algorithmic design patterns like divide and conquer, dynamic programming and greedy algorithms. Also covers major algorithms and data structures for searching and sorting, graphs and some optimization techniques.
 ---
 ## Featured Projects
 
@@ -85,6 +89,11 @@ This project explores statistical data processing, floating-point arithmetic, ar
 
 For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 031: Project 2 - Average Scores](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-031:-Project-2-%E2%80%90-Average-Scores)** wiki page.
 
+### 13. CSE 100 - Lab 1: Insertion Sort
+This project explores foundational C++ programming paradigms, local compilation flags, executable file generation, and source-to-binary validation workflows. The goal of this assignment is to establish robust coding standards, secure file handling practices, and clean compilation routines using modern C++ toolchains.
+
+For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 100: Lab 1 - Insertion Sort](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-100:-Lab-1-%E2%80%90-Insertion-Sort)** wiki page.
+
 ---
 
 #### Key Technical Takeaways
@@ -112,6 +121,8 @@ For a complete architectural breakdown, structural component analysis, and sanit
   *   **Algorithmic Traversal:** Mastered 8-way directional search indexing and boundary condition checking for matrix-based problems. - Featured Project 11
   *   **C-to-Assembly Translation:** Mastered translating high-level arithmetic and looping constructs into low-level MIPS code - Featured Project 12
   *   **Testing Rigor:** Verified functional correctness across diverse input ranges using automated test runs. - Featured Project 12
+  *   **Compiler Mastery:** Gained hands-on experience managing compiler flags, resolving build warnings, and producing verified binaries. - Featured Project 13
+  *   **C++ Fundamentals:** Strengthened proficiency in standard input/output streams, string manipulation, and procedural code organization. - Featured Project 13
 ---
 
 ## Let's Connect!
