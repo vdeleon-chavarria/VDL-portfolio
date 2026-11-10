@@ -104,6 +104,11 @@ This project explores advanced C++ memory management, dynamic data structures, c
 
 For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 100: Lab 3 - Divide & Conquer](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-100:-Lab-3-%E2%80%90-Divide-&-Conquer)** wiki page.
 
+### 16. CSE 100 - Lab 4.1: Heap Sort
+This project explores advanced C++ modular program structure, customized Makefile build targets, automated test harness execution, and memory-safe design patterns. The goal of this assignment is to build, compile, and validate structured C++ software components against rigorous test suites and performance expectations.
+
+For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 100: Lab 4.1 - Heap Sort](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-100:-Lab-4.1-%E2%80%90-Heap-Sort)** wiki page.
+
 ---
 
 #### Key Technical Takeaways
@@ -137,6 +142,8 @@ For a complete architectural breakdown, structural component analysis, and sanit
   *   **File Stream Management:** Gained hands-on experience handling file streams, input validation, and benchmarking against automated test outputs. - Featured Project 14
   *   **Memory Safety:** Mastered dynamic memory handling, heap allocation patterns, and leak prevention techniques in C++. - Featured Project 15
   *   **Test-Driven Workflows:** Strengthened ability to build, debug, and validate software against rigorous multi-file test suites. - Featured Project 15
+  *   **Modular Software Engineering:** Mastered structuring multi-component C++ programs with clean separation of concerns. - Featured Project 16
+  *   **Automated Testing & Build Flows:** Strengthened proficiency in using Makefiles and test harnesses to validate software correctness. - Featured Project 16
 ---
 
 ## Let's Connect!
