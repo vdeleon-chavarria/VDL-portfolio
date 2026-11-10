@@ -114,6 +114,11 @@ This project explores advanced C++ code refactoring, system extension, optimized
 
 For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 100: Lab 4.2 - Quick Sort](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-100:-Lab-4.2-%E2%80%90-Quick-Sort)** wiki page.
 
+### 18. CSE 100 - Lab 5: Radixsort
+This project explores advanced C++ algorithms, performance optimization, custom class design, and rigorous test-driven validation workflows. The goal of this assignment is to design highly efficient, memory-safe algorithms and validate them against complex multi-file test suites under strict compilation constraints.
+
+For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 100: Lab 5 - Radixsort](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-100:-Lab-5-%E2%80%90-Radixsort)** wiki page.
+
 ---
 
 #### Key Technical Takeaways
@@ -151,6 +156,8 @@ For a complete architectural breakdown, structural component analysis, and sanit
   *   **Automated Testing & Build Flows:** Strengthened proficiency in using Makefiles and test harnesses to validate software correctness. - Featured Project 16
   *   **Software Refactoring:** Mastered the art of safely extending and refactoring complex C++ codebases while preserving modularity. - Featured Project 17
   *   **Regression Testing:** Strengthened capability to utilize automated test suites for validating software correctness under strict performance constraints. - Featured Project 17
+  *   **Algorithmic Efficiency:** Mastered the implementation of advanced time-complexity optimizations and efficient data structures in C++. - Featured Project 18
+  *   **Regression Testing:** Strengthened proficiency in building, profiling, and benchmarking software against rigorous automated test suites. - Featured Project 18
 ---
 
 ## Let's Connect!
