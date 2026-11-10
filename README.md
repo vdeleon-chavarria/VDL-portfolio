@@ -94,6 +94,11 @@ This project explores foundational C++ programming paradigms, local compilation 
 
 For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 100: Lab 1 - Insertion Sort](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-100:-Lab-1-%E2%80%90-Insertion-Sort)** wiki page.
 
+### 14. CSE 100 - Lab 2: Merge Sort
+This project explores advanced C++ file input/output streams, custom Makefile build automation, and structured test-driven verification workflows. The goal of this assignment is to design robust command-line utilities capable of parsing input files, processing data streams, and matching expected output benchmarks across multiple test suites.
+
+For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 100: Lab 2 - Merge Sort](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-100:-Lab-2-%E2%80%90-Merge-Sort)** wiki page.
+
 ---
 
 #### Key Technical Takeaways
@@ -123,6 +128,8 @@ For a complete architectural breakdown, structural component analysis, and sanit
   *   **Testing Rigor:** Verified functional correctness across diverse input ranges using automated test runs. - Featured Project 12
   *   **Compiler Mastery:** Gained hands-on experience managing compiler flags, resolving build warnings, and producing verified binaries. - Featured Project 13
   *   **C++ Fundamentals:** Strengthened proficiency in standard input/output streams, string manipulation, and procedural code organization. - Featured Project 13
+  *   **Build Automation:** Mastered the creation of custom Makefiles to manage compilation flags, dependencies, and automated test execution. - Featured Project 14
+  *   **File Stream Management:** Gained hands-on experience handling file streams, input validation, and benchmarking against automated test outputs. - Featured Project 14
 ---
 
 ## Let's Connect!
