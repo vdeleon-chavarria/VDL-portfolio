@@ -109,6 +109,11 @@ This project explores advanced C++ modular program structure, customized Makefil
 
 For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 100: Lab 4.1 - Heap Sort](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-100:-Lab-4.1-%E2%80%90-Heap-Sort)** wiki page.
 
+### 17. CSE 100 - Lab 4.2: Quick Sort
+This project explores advanced C++ code refactoring, system extension, optimized stream processing, and rigorous regression testing against multi-file test suites. The goal of this assignment is to extend existing software modules, integrate enhanced algorithmic logic, and ensure total compliance with target output specifications.
+
+For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 100: Lab 4.2 - Quick Sort](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-100:-Lab-4.2-%E2%80%90-Quick-Sort)** wiki page.
+
 ---
 
 #### Key Technical Takeaways
@@ -144,6 +149,8 @@ For a complete architectural breakdown, structural component analysis, and sanit
   *   **Test-Driven Workflows:** Strengthened ability to build, debug, and validate software against rigorous multi-file test suites. - Featured Project 15
   *   **Modular Software Engineering:** Mastered structuring multi-component C++ programs with clean separation of concerns. - Featured Project 16
   *   **Automated Testing & Build Flows:** Strengthened proficiency in using Makefiles and test harnesses to validate software correctness. - Featured Project 16
+  *   **Software Refactoring:** Mastered the art of safely extending and refactoring complex C++ codebases while preserving modularity. - Featured Project 17
+  *   **Regression Testing:** Strengthened capability to utilize automated test suites for validating software correctness under strict performance constraints. - Featured Project 17
 ---
 
 ## Let's Connect!
