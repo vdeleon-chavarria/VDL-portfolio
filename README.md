@@ -24,8 +24,13 @@ This is a list of courses I have taken within UC Merced to help understand the i
 
 ### 2. CSE 100 - Algorithm Design and Analysis
 * **Professor:** Hua Huang
-* **Term:** Spring 2025
+* **Term:** Fall 2025
 * **Course Description:** Introduction to the design and analysis of computer algorithms. Topics will include concepts of algorithm complexity, and various algorithmic design patterns like divide and conquer, dynamic programming and greedy algorithms. Also covers major algorithms and data structures for searching and sorting, graphs and some optimization techniques.
+
+### 3. CSE 108 - Full Stack Web Development
+* **Professor:** Ammon Hepworth
+* **Term:** Fall 2025
+* **Course Description:** Explores topics related to both front end and backend web development including web security, scalable architecture, web frameworks, databases, and object relational mappers.
 ---
 ## Featured Projects
 
@@ -149,6 +154,11 @@ This lab focuses on implementing Prim's Algorithm in C++ to construct a Minimum 
 
 For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 100: Lab 11 - Minimum Spanning Tree](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-100:-Lab-11-%E2%80%90-Minimum-Spanning-Tree)** wiki page.
 
+### 25. CSE 108 - Lab 1: Python Practice
+This lab focuses on strengthening fundamental Python programming skills through a series of exercises involving user input, file handling, string manipulation, object-oriented programming, and data management. The objective is to develop Python programs that perform numerical calculations, process text files, organize course information, and manage student grades. Through this exercise, I gained experience with Python functions, loops, conditional statements, classes, dictionaries, JSON serialization, and exception handling.
+
+For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 108: Lab 1 - Python Practice](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-108:-Lab-1-%E2%80%90-Python-Practice)** wiki page.
+
 ---
 
 #### Key Technical Takeaways
@@ -206,6 +216,9 @@ For a complete architectural breakdown, structural component analysis, and sanit
   *   **Prim's Algorithm:** Learned how greedy algorithms construct minimum spanning trees by selecting minimum-weight connections. - Featured Project 24
   *   **Priority Queues:** Practiced using min-priority queues to efficiently manage candidate vertices. - Featured Project 24
   *   **Greedy Algorithms:** Explored how locally optimal decisions can produce a globally optimal minimum spanning tree. - Featured Project 24
+  *   **Python Fundamentals:** Strengthened my understanding of functions, loops, conditional statements, and user input. - Featured Project 25
+  *   **Object-Oriented Programming:** Used Python classes, constructors, attributes, and methods to organize structured information. - Featured Project 25
+  *   **Data Structures:** Gained experience with lists and dictionaries for managing collections of data. - Featured Project 25
 ---
 
 ## Let's Connect!
