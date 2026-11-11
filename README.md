@@ -125,7 +125,7 @@ This project explores advanced C++ algorithmic design, memory management, Makefi
 For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 100: Lab 6 - Binary Search Trees](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-100:-Lab-6-%E2%80%90-Binary-Search-Trees)** wiki page.
 
 ### 20. CSE 100 - Lab 7: Hash Table with Chaining
-This project explores advanced C++ data structures, custom memory management, build automation via Makefiles, and rigorous test-driven validation workflows. The goal of this assignment is to design highly efficient, memory-safe C++ components and validate them against complex multi-file test suites under strict compilation constraints.
+This lab focuses on implementing a hash table using separate chaining in C++. The objective is to understand how hash tables efficiently store, search, and delete elements while handling collisions. The program uses a hash function to distribute integer keys into buckets and linked lists to manage collisions. Through this exercise, I gained experience with C++ Standard Template Library (STL) containers, hash functions, linked lists, and basic algorithmic efficiency.
 
 For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 100: Lab 7 - Hash Table with Chaining](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-100:-Lab-7-%E2%80%90-Hash-Table-with-Chaining)** wiki page.
 
@@ -168,8 +168,11 @@ For a complete architectural breakdown, structural component analysis, and sanit
   *   **Regression Testing:** Strengthened capability to utilize automated test suites for validating software correctness under strict performance constraints. - Featured Project 17
   *   **Algorithmic Efficiency:** Mastered the implementation of advanced time-complexity optimizations and efficient data structures in C++. - Featured Project 18
   *   **Regression Testing:** Strengthened proficiency in building, profiling, and benchmarking software against rigorous automated test suites. - Featured Project 18
-  *   **Advanced C++ Proficiency:** Mastered complex algorithmic design, custom class structuring, and memory-safe paradigms. - Featured Project 19 & 20
-  *   **Build Automation & Testing:** Strengthened capability to construct modular Makefiles and execute multi-file automated test suites. - Featured Project 19 & 20
+  *   **Advanced C++ Proficiency:** Mastered complex algorithmic design, custom class structuring, and memory-safe paradigms. - Featured Project 19
+  *   **Build Automation & Testing:** Strengthened capability to construct modular Makefiles and execute multi-file automated test suites. - Featured Project 19
+  *   **Hash Tables:** Learned how hash functions organize data for efficient access and modification. - Featured Project 20
+  *   **Collision Resolution:** Applied separate chaining to handle multiple keys mapping to the same bucket. - Featured Project 20
+  *   **Algorithmic Efficiency:** Explored the average-case and worst-case performance of common hash table operations. - Featured Project 20
 ---
 
 ## Let's Connect!
