@@ -134,6 +134,11 @@ This lab focuses on identifying Strongly Connected Components (SCCs) in directed
 
 For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 100: Lab 8 - Strongly Connected Components](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-100:-Lab-8-%E2%80%90-Strongly-Connected-Components)** wiki page.
 
+### 22. CSE 100 - Lab 9: Bellman-Ford Algorithm
+This lab focuses on implementing the Bellman-Ford algorithm in C++ to calculate shortest paths in weighted directed graphs. The objective is to understand graph optimization techniques and how to detect negative-weight cycles. The program applies edge relaxation to determine the shortest distances from a source vertex to other vertices in a graph. Through this exercise, I gained experience with graph representations, iterative algorithms, negative-cycle detection, and algorithmic efficiency.
+
+For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 100: Lab 9 - BellmanFord Algorithm](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-100:-Lab-9-%E2%80%90-BellmanFord-Algorithm)** wiki page.
+
 ---
 
 #### Key Technical Takeaways
@@ -181,6 +186,9 @@ For a complete architectural breakdown, structural component analysis, and sanit
   *   **Graph Theory:** Strengthened my understanding of directed graphs, vertex connectivity, and strongly connected components. - Featured Project 21
   *   **Depth-First Search:** Applied recursive graph traversal techniques to explore vertex relationships. - Featured Project 21
   *   **Kosaraju's Algorithm:** Learned how multiple graph traversals can identify strongly connected components efficiently. - Featured Project 21
+  *   **Graph Theory:** Strengthened my understanding of weighted directed graphs, shortest paths, and negative-weight cycles. - Featured Project 22
+  *   **Bellman-Ford Algorithm:** Learned how iterative edge relaxation determines minimum distances from a source vertex. - Featured Project 22
+  *   **Negative-Cycle Detection:** Explored how to identify cycles that prevent valid shortest-path calculations. - Featured Project 22
 ---
 
 ## Let's Connect!
