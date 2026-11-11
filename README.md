@@ -129,6 +129,11 @@ This lab focuses on implementing a hash table using separate chaining in C++. Th
 
 For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 100: Lab 7 - Hash Table with Chaining](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-100:-Lab-7-%E2%80%90-Hash-Table-with-Chaining)** wiki page.
 
+### 21. CSE 100 - Lab 8: Strongly Connected Components
+This lab focuses on identifying Strongly Connected Components (SCCs) in directed graphs using C++. The objective is to understand graph traversal algorithms and determine groups of vertices that are mutually reachable. The program applies depth-first search (DFS) and graph reversal techniques to identify strongly connected components. Through this exercise, I gained experience with graph representations, recursive algorithms, STL containers, and graph connectivity analysis.
+
+For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 100: Lab 8 - Strongly Connected Components](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-100:-Lab-8-%E2%80%90-Strongly-Connected-Components)** wiki page.
+
 ---
 
 #### Key Technical Takeaways
@@ -173,6 +178,9 @@ For a complete architectural breakdown, structural component analysis, and sanit
   *   **Hash Tables:** Learned how hash functions organize data for efficient access and modification. - Featured Project 20
   *   **Collision Resolution:** Applied separate chaining to handle multiple keys mapping to the same bucket. - Featured Project 20
   *   **Algorithmic Efficiency:** Explored the average-case and worst-case performance of common hash table operations. - Featured Project 20
+  *   **Graph Theory:** Strengthened my understanding of directed graphs, vertex connectivity, and strongly connected components. - Featured Project 21
+  *   **Depth-First Search:** Applied recursive graph traversal techniques to explore vertex relationships. - Featured Project 21
+  *   **Kosaraju's Algorithm:** Learned how multiple graph traversals can identify strongly connected components efficiently. - Featured Project 21
 ---
 
 ## Let's Connect!
