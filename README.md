@@ -139,6 +139,12 @@ This lab focuses on implementing the Bellman-Ford algorithm in C++ to calculate 
 
 For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 100: Lab 9 - BellmanFord Algorithm](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-100:-Lab-9-%E2%80%90-BellmanFord-Algorithm)** wiki page.
 
+### 23. CSE 100 - Lab 10: Dynamic Programming - Matrix Chain Multiplication
+This lab focuses on implementing Dynamic Programming in C++ to solve the Matrix Chain Multiplication problem. The objective is to understand how optimization algorithms reduce redundant calculations by breaking complex problems into smaller subproblems. The program determines the minimum number of scalar multiplications required to multiply a sequence of matrices and identifies the optimal multiplication order. Through this exercise, I gained experience with dynamic programming, multidimensional arrays, recursion, and algorithmic optimization.
+
+For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 100: Lab 10 - Dynamic Programming](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-100:-Lab-10-%E2%80%90-Dynamic-Programming)** wiki page.
+
+
 ---
 
 #### Key Technical Takeaways
@@ -189,6 +195,9 @@ For a complete architectural breakdown, structural component analysis, and sanit
   *   **Graph Theory:** Strengthened my understanding of weighted directed graphs, shortest paths, and negative-weight cycles. - Featured Project 22
   *   **Bellman-Ford Algorithm:** Learned how iterative edge relaxation determines minimum distances from a source vertex. - Featured Project 22
   *   **Negative-Cycle Detection:** Explored how to identify cycles that prevent valid shortest-path calculations. - Featured Project 22
+  *   **Dynamic Programming:** Strengthened my understanding of breaking complex optimization problems into smaller, overlapping subproblems. - Featured Project 23
+  *   **Matrix Chain Multiplication:** Learned how multiplication order affects computational cost without changing the final mathematical result. - Featured Project 23
+  *   **Memoization & Tabulation:** Explored storing intermediate results, with a focus on bottom-up tabulation to avoid redundant computations. - Featured Project 23
 ---
 
 ## Let's Connect!
