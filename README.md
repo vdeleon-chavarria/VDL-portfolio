@@ -144,6 +144,10 @@ This lab focuses on implementing Dynamic Programming in C++ to solve the Matrix 
 
 For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 100: Lab 10 - Dynamic Programming](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-100:-Lab-10-%E2%80%90-Dynamic-Programming)** wiki page.
 
+### 24. CSE 100 - Lab 11: Minimum Spanning Tree
+This lab focuses on implementing Prim's Algorithm in C++ to construct a Minimum Spanning Tree (MST) in a weighted, undirected graph. The objective is to understand how greedy algorithms identify a collection of edges that connects all vertices while minimizing total edge weight. The program uses a priority queue to efficiently select edges and construct a minimum spanning tree. Through this exercise, I gained experience with graph representations, greedy algorithms, priority queues, and optimization techniques.
+
+For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 100: Lab 11 - Minimum Spanning Tree](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-100:-Lab-11-%E2%80%90-Minimum-Spanning-Tree)** wiki page.
 
 ---
 
@@ -198,6 +202,10 @@ For a complete architectural breakdown, structural component analysis, and sanit
   *   **Dynamic Programming:** Strengthened my understanding of breaking complex optimization problems into smaller, overlapping subproblems. - Featured Project 23
   *   **Matrix Chain Multiplication:** Learned how multiplication order affects computational cost without changing the final mathematical result. - Featured Project 23
   *   **Memoization & Tabulation:** Explored storing intermediate results, with a focus on bottom-up tabulation to avoid redundant computations. - Featured Project 23
+  *   **Graph Theory:** Strengthened my understanding of weighted, undirected graphs and minimum spanning trees. - Featured Project 24
+  *   **Prim's Algorithm:** Learned how greedy algorithms construct minimum spanning trees by selecting minimum-weight connections. - Featured Project 24
+  *   **Priority Queues:** Practiced using min-priority queues to efficiently manage candidate vertices. - Featured Project 24
+  *   **Greedy Algorithms:** Explored how locally optimal decisions can produce a globally optimal minimum spanning tree. - Featured Project 24
 ---
 
 ## Let's Connect!
