@@ -159,6 +159,11 @@ This lab focuses on strengthening fundamental Python programming skills through 
 
 For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 108: Lab 1 - Python Practice](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-108:-Lab-1-%E2%80%90-Python-Practice)** wiki page.
 
+### 26. CSE 108 - Lab 2: Static Webpage
+This lab focuses on developing a multi-page website using HTML and CSS. The objective is to understand the fundamentals of web development, including webpage structure, navigation, styling, and multimedia integration. The project features an informational website about musician Scott Helman, containing biographical details, music releases, award nominations, and tours. Through this exercise, I gained experience with HTML elements, CSS styling, webpage layouts, animations, and organizing content across multiple interconnected pages.
+
+For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 108: Lab 2 - Static Webpage](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-180:-Lab-2-%E2%80%90-Static-Webpage)** wiki page.
+
 ---
 
 #### Key Technical Takeaways
@@ -219,6 +224,10 @@ For a complete architectural breakdown, structural component analysis, and sanit
   *   **Python Fundamentals:** Strengthened my understanding of functions, loops, conditional statements, and user input. - Featured Project 25
   *   **Object-Oriented Programming:** Used Python classes, constructors, attributes, and methods to organize structured information. - Featured Project 25
   *   **Data Structures:** Gained experience with lists and dictionaries for managing collections of data. - Featured Project 25
+  *   **HTML Fundamentals:** Strengthened my understanding of webpage structure, HTML elements, and content organization. - Featured Project 26
+  *   **CSS Styling:** Practiced customizing fonts, colors, backgrounds, spacing, and layouts. - Featured Project 26
+  *   **Website Navigation:** Learned how to connect multiple HTML pages using hyperlinks and navigation menus. - Featured Project 26
+
 ---
 
 ## Let's Connect!
