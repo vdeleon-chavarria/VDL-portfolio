@@ -164,6 +164,11 @@ This lab focuses on developing a multi-page website using HTML and CSS. The obje
 
 For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 108: Lab 2 - Static Webpage](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-180:-Lab-2-%E2%80%90-Static-Webpage)** wiki page.
 
+### 27. CSE 108 - Lab 3: Calculator Web App
+This lab focuses on developing an interactive calculator web application using HTML, CSS, and JavaScript. The objective is to understand how JavaScript handles user interactions, performs arithmetic operations, and dynamically updates webpage elements. The project features a functional calculator supporting basic arithmetic operations, decimal inputs, repeated calculations, and error handling. Through this exercise, I gained experience with JavaScript event listeners, DOM manipulation, conditional statements, and frontend interface design.
+
+For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 108: Lab 3 - Calculator Web App](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-108:-Lab-3-%E2%80%90-Calculator-Web-App)** wiki page.
+
 ---
 
 #### Key Technical Takeaways
@@ -227,6 +232,9 @@ For a complete architectural breakdown, structural component analysis, and sanit
   *   **HTML Fundamentals:** Strengthened my understanding of webpage structure, HTML elements, and content organization. - Featured Project 26
   *   **CSS Styling:** Practiced customizing fonts, colors, backgrounds, spacing, and layouts. - Featured Project 26
   *   **Website Navigation:** Learned how to connect multiple HTML pages using hyperlinks and navigation menus. - Featured Project 26
+  *   **CSS Grid:** Practiced organizing interface components using grid-based layouts. - Featured Project 27
+  *   **JavaScript Fundamentals:** Applied variables, functions, conditional statements, and arithmetic operations. - Featured Project 27
+  *   **Error Handling:** Explored techniques for managing invalid arithmetic operations, including division by zero. - Featured Project 27
 
 ---
 
