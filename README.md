@@ -169,6 +169,11 @@ This lab focuses on developing an interactive calculator web application using H
 
 For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 108: Lab 3 - Calculator Web App](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-108:-Lab-3-%E2%80%90-Calculator-Web-App)** wiki page.
 
+### 28. CSE 108 - Lab 4: Calculator Web App Using React
+This lab focuses on developing an interactive calculator web application using React, JavaScript, and CSS. The objective is to understand component-based web development, state management, and dynamic user interactions using the React framework. The project features a calculator supporting basic arithmetic operations, decimal inputs, repeated calculations, and error handling. Through this exercise, I gained experience with React functional components, React Hooks, Material UI components, event handling, and frontend interface design.
+
+For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 108: Lab 4 - Calculator React](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-108:-Lab-4-%E2%80%90-Calculator-App-using-React)** wiki page.
+
 ---
 
 #### Key Technical Takeaways
@@ -235,6 +240,9 @@ For a complete architectural breakdown, structural component analysis, and sanit
   *   **CSS Grid:** Practiced organizing interface components using grid-based layouts. - Featured Project 27
   *   **JavaScript Fundamentals:** Applied variables, functions, conditional statements, and arithmetic operations. - Featured Project 27
   *   **Error Handling:** Explored techniques for managing invalid arithmetic operations, including division by zero. - Featured Project 27
+  *   **React Fundamentals:** Strengthened my understanding of functional components, JSX, and component-based architecture. - Featured Project 28
+  *   **React Hooks:** Practiced using useState to manage dynamic application data. - Featured Project 28
+  *   **Material UI:** Gained experience using prebuilt React components to construct interactive interfaces. - Featured Project 28
 
 ---
 
