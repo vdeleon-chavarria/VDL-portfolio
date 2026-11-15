@@ -174,6 +174,11 @@ This lab focuses on developing an interactive calculator web application using R
 
 For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 108: Lab 4 - Calculator React](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-108:-Lab-4-%E2%80%90-Calculator-App-using-React)** wiki page.
 
+### 29. CSE 108 - Lab 5: Grades Program
+This lab focuses on developing an interactive student grades management website using HTML, CSS, and JavaScript. The objective is to understand how frontend applications communicate with external APIs, manage student records, and dynamically update webpage content. The project features a grade management interface supporting student grade retrieval, viewing all records, adding students, editing grades, and deleting records. Through this exercise, I gained experience with asynchronous JavaScript, REST API communication, HTTP requests, JSON data processing, DOM manipulation, and frontend interface design.
+
+For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 108: Lab 5 - Grades Program](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-108:-Lab-5-%E2%80%90-Grades-Program)** wiki page.
+
 ---
 
 #### Key Technical Takeaways
@@ -243,6 +248,9 @@ For a complete architectural breakdown, structural component analysis, and sanit
   *   **React Fundamentals:** Strengthened my understanding of functional components, JSX, and component-based architecture. - Featured Project 28
   *   **React Hooks:** Practiced using useState to manage dynamic application data. - Featured Project 28
   *   **Material UI:** Gained experience using prebuilt React components to construct interactive interfaces. - Featured Project 28
+  *   **REST APIs:** Learned how frontend applications communicate with external services through HTTP requests. - Featured Project 29
+  *   **CRUD Operations:** Implemented fundamental operations for creating, retrieving, updating, and deleting student records. - Featured Project 29
+  *   **JSON Processing:** Practiced converting API responses into JavaScript objects and preparing structured request data. - Featured Project 29
 
 ---
 
