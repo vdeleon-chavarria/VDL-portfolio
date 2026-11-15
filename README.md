@@ -179,6 +179,11 @@ This lab focuses on developing an interactive student grades management website 
 
 For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 108: Lab 5 - Grades Program](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-108:-Lab-5-%E2%80%90-Grades-Program)** wiki page.
 
+### 30. CSE 108 - Lab 6: Grades Program with REST API
+This lab focuses on developing a full-stack student grades management application using Python, Flask, HTML, CSS, and JavaScript. The objective is to understand backend development, RESTful API design, and communication between frontend applications and web servers. The project expands on the previous grades management website by introducing a Flask backend that handles student records through HTTP requests. The application supports retrieving grades, adding students, updating records, and deleting student information. Through this exercise, I gained experience with Flask routing, REST APIs, Cross-Origin Resource Sharing (CORS), JSON-based data storage, and frontend-backend integration.
+
+For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 108: Lab 6 - Grades Program with REST API](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-108:-Lab-6-%E2%80%90-Grades-Program-with-REST-API)** wiki page.
+
 ---
 
 #### Key Technical Takeaways
@@ -251,6 +256,10 @@ For a complete architectural breakdown, structural component analysis, and sanit
   *   **REST APIs:** Learned how frontend applications communicate with external services through HTTP requests. - Featured Project 29
   *   **CRUD Operations:** Implemented fundamental operations for creating, retrieving, updating, and deleting student records. - Featured Project 29
   *   **JSON Processing:** Practiced converting API responses into JavaScript objects and preparing structured request data. - Featured Project 29
+  *   **Flask Framework:** Learned how to create backend web applications using Python and Flask. - Featured Project 30
+  *   **REST API Development:** Practiced implementing HTTP GET, POST, PUT, and DELETE operations. - Featured Project 30
+  *   **Full-Stack Development:** Gained experience connecting frontend webpages with a Python backend. - Featured Project 30
+  *   **JSON Data Management:** Used JSON serialization and deserialization to store and retrieve structured information. - Featured Project 30
 
 ---
 
