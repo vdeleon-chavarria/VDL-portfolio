@@ -194,6 +194,13 @@ This lab focuses on developing a full-stack course management application using 
 
 For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 108: Lab 8 - Student Enrollment](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-108:-Lab-8-%E2%80%90-Student-Enrollment)** wiki page.
 
+### 33. CSE 108 - Final Project: Hosted Live Web App
+This final project focuses on developing Minute4Thoughts, a full-stack social media web application using Python, Flask, SQLAlchemy, SQLite, HTML, CSS, and JavaScript. The objective is to apply web development concepts to create an interactive platform that supports user accounts, social interactions, and temporary content sharing. The application allows users to create profiles, publish posts that automatically expire after four minutes, follow other users, and interact with content through multiple reactions. Through this project, I gained experience with user authentication, relational databases, RESTful APIs, file uploads, background task scheduling, and frontend-backend integration.
+
+**Github:** [https://github.com/dinopenut/final-project](https://github.com/dinopenut/final-project)
+
+For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 108: Final - Live Web App](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-108:-Final-Project-%E2%80%90-Live-Web-App)** wiki page.
+
 ---
 
 #### Key Technical Takeaways
@@ -276,6 +283,10 @@ For a complete architectural breakdown, structural component analysis, and sanit
   *   **Flask Framework:** Strengthened my understanding of backend web development, routing, and application configuration. - Featured Project 32
   *   **Flask-Login:** Gained experience integrating user authentication and session management into a web application. - Featured Project 32
   *   **Role-Based Access Control:** Practiced organizing application functionality around student, professor, and administrator roles. - Featured Project 32
+  *   **Full-Stack Development:** Integrated Python, Flask, HTML, CSS, JavaScript, and SQLite into an interactive social media application. - Featured Project 33
+  *   **Background Task Scheduling:** Used APScheduler to automate the removal of expired posts. - Featured Project 33
+  *   **Datetime Management:** Worked with timestamps, expiration periods, and timezone-aware datetime operations. - Featured Project 33
+  *   **Application Architecture:** Strengthened my understanding of integrating authentication, databases, frontend interfaces, and scheduled services into a larger software project. - Featured Project 33
 
 ---
 
