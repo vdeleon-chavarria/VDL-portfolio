@@ -184,6 +184,11 @@ This lab focuses on developing a full-stack student grades management applicatio
 
 For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 108: Lab 6 - Grades Program with REST API](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-108:-Lab-6-%E2%80%90-Grades-Program-with-REST-API)** wiki page.
 
+### 31. CSE 108 - Lab 7: Grades Program SQL
+This lab focuses on developing a full-stack student grades management application using Python, Flask, SQLAlchemy, SQLite, HTML, CSS, and JavaScript. The objective is to understand relational database integration, Object-Relational Mapping (ORM), and persistent data management within a web application. The project expands on the previous Flask-based grades management website by replacing JSON file storage with a SQLite database. The application supports retrieving student grades, adding new students, updating existing grades, and deleting student records. Through this exercise, I gained experience with database models, SQLAlchemy queries, RESTful API development, and frontend-backend integration.
+
+For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 108: Lab 7 - Grades Program SQL](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-108:-Lab-7-%E2%80%90-Grades-Program-SQL)** wiki page.
+
 ---
 
 #### Key Technical Takeaways
@@ -260,6 +265,9 @@ For a complete architectural breakdown, structural component analysis, and sanit
   *   **REST API Development:** Practiced implementing HTTP GET, POST, PUT, and DELETE operations. - Featured Project 30
   *   **Full-Stack Development:** Gained experience connecting frontend webpages with a Python backend. - Featured Project 30
   *   **JSON Data Management:** Used JSON serialization and deserialization to store and retrieve structured information. - Featured Project 30
+  *   **SQLAlchemy ORM:** Learned how to interact with relational databases using Python classes and ORM queries. - Featured Project 31
+  *   **SQLite Database:** Gained experience storing and managing persistent application data in a relational database. - Featured Project 31
+  *   **Database Modeling:** Practiced defining database tables, primary keys, fields, and constraints. - Featured Project 31
 
 ---
 
