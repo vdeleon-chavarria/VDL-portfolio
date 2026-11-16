@@ -189,6 +189,11 @@ This lab focuses on developing a full-stack student grades management applicatio
 
 For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 108: Lab 7 - Grades Program SQL](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-108:-Lab-7-%E2%80%90-Grades-Program-SQL)** wiki page.
 
+### 32. CSE 108 - Lab 8: Student Enrollment Web App
+This lab focuses on developing a full-stack course management application using Python, Flask, Flask-Login, SQLAlchemy, SQLite, HTML, CSS, and JavaScript. The objective is to understand user authentication, role-based access control, relational database management, and frontend-backend integration. The project expands on the previous database-driven application by introducing login functionality and separate interfaces for students, professors, and administrators. The application supports course enrollment, class management, student grading, and administrative operations. Through this exercise, I gained experience with Flask-Login, user sessions, database relationships, RESTful APIs, and role-based application architecture.
+
+For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 108: Lab 8 - Student Enrollment](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-108:-Lab-8-%E2%80%90-Student-Enrollment)** wiki page.
+
 ---
 
 #### Key Technical Takeaways
@@ -268,6 +273,9 @@ For a complete architectural breakdown, structural component analysis, and sanit
   *   **SQLAlchemy ORM:** Learned how to interact with relational databases using Python classes and ORM queries. - Featured Project 31
   *   **SQLite Database:** Gained experience storing and managing persistent application data in a relational database. - Featured Project 31
   *   **Database Modeling:** Practiced defining database tables, primary keys, fields, and constraints. - Featured Project 31
+  *   **Flask Framework:** Strengthened my understanding of backend web development, routing, and application configuration. - Featured Project 32
+  *   **Flask-Login:** Gained experience integrating user authentication and session management into a web application. - Featured Project 32
+  *   **Role-Based Access Control:** Practiced organizing application functionality around student, professor, and administrator roles. - Featured Project 32
 
 ---
 
