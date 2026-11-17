@@ -31,6 +31,11 @@ This is a list of courses I have taken within UC Merced to help understand the i
 * **Professor:** Ammon Hepworth
 * **Term:** Fall 2025
 * **Course Description:** Explores topics related to both front end and backend web development including web security, scalable architecture, web frameworks, databases, and object relational mappers.
+
+### 3. CSE 130 - Introduction to Cryptography
+* **Professor:** Santosh Chandrasekhar
+* **Term:** Spring 2026
+* **Course Description:** Introduces the basic theory and practice of cryptographic techniques used in computer security by exploring the inner workings, mathematical assumptions and foundations of cryptographic primitives and how to use them correctly. Topics include pseudorandom functions, one-way functions, cryptographic hashing, encryption (symmetric and public-key), message integrity, message authentication codes, digital signatures, key management, security protocols and more. Covers the necessary mathematical background, formal definitions of security and proofs of security based on precise definitions and assumptions. A strong mathematical background in probability and statistics is preferred.
 ---
 ## Featured Projects
 
@@ -201,6 +206,11 @@ This final project focuses on developing Minute4Thoughts, a full-stack social me
 
 For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 108: Final - Live Web App](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-108:-Final-Project-%E2%80%90-Live-Web-App)** wiki page.
 
+### 34. CSE 130 - Homework Assignments
+This collection contains six homework assignments from CSE 130 – Introduction to Cryptography, focusing on the mathematical foundations, security principles, and theoretical analysis of cryptographic systems. The assignments explore historical encryption techniques, perfect secrecy, private-key encryption, message authentication, hash functions, and practical symmetric-key cryptographic constructions. Through these exercises, I gained experience with mathematical proofs, probability theory, cryptanalysis, security definitions, and evaluating cryptographic algorithms against potential vulnerabilities.
+
+For a complete homework breakdown, view the **[CSE 130: Homework Assignment](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-130:-Homework-Assignments)** wiki page.
+
 ---
 
 #### Key Technical Takeaways
@@ -287,6 +297,10 @@ For a complete architectural breakdown, structural component analysis, and sanit
   *   **Background Task Scheduling:** Used APScheduler to automate the removal of expired posts. - Featured Project 33
   *   **Datetime Management:** Worked with timestamps, expiration periods, and timezone-aware datetime operations. - Featured Project 33
   *   **Application Architecture:** Strengthened my understanding of integrating authentication, databases, frontend interfaces, and scheduled services into a larger software project. - Featured Project 33
+  *   **Cryptographic Foundations:** Strengthened my understanding of encryption, secrecy, authentication, and computational security. - Featured Project 34
+  *   **Encryption Modes:** Analyzed CBC, CTR, and OFB modes and their security limitations. - Featured Project 34
+  *   **Hash Functions:** Studied collision resistance, Merkle-Damgård constructions, and random-oracle-based security. - Featured Project 34
+  *   **Mathematical Proofs:** Developed experience constructing security arguments using probability, algebra, and formal reasoning. - Featured Project 34
 
 ---
 
