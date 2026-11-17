@@ -211,6 +211,11 @@ This collection contains six homework assignments from CSE 130 – Introduction 
 
 For a complete homework breakdown, view the **[CSE 130: Homework Assignment](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-130:-Homework-Assignments)** wiki page.
 
+### 35. CSE 130 - Lab 1: Breaking the Byte-wise Vigenére (XOR) Cipher
+This lab focuses on implementing Vigenère cipher cryptanalysis using the C programming language. The objective is to understand classical encryption techniques, statistical cryptanalysis, and methods for recovering encryption keys from ciphertext. The project analyzes a byte-wise Vigenère cipher using XOR operations, frequency analysis, and the Index of Coincidence (IOC). The program estimates the encryption key length, attempts to recover the key, and decrypts the provided ciphertext. Through this exercise, I gained experience with cryptographic algorithms, byte manipulation, statistical analysis, file handling, and C programming.
+
+For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 130: Lab 1 - Vigenére Cipher](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-130:-Lab-1-%E2%80%90-Vingen%C3%A9re-Cipher)** wiki page.
+
 ---
 
 #### Key Technical Takeaways
@@ -301,6 +306,9 @@ For a complete homework breakdown, view the **[CSE 130: Homework Assignment](htt
   *   **Encryption Modes:** Analyzed CBC, CTR, and OFB modes and their security limitations. - Featured Project 34
   *   **Hash Functions:** Studied collision resistance, Merkle-Damgård constructions, and random-oracle-based security. - Featured Project 34
   *   **Mathematical Proofs:** Developed experience constructing security arguments using probability, algebra, and formal reasoning. - Featured Project 34
+  *   **Index of Coincidence:** Learned how character-frequency patterns can help estimate encryption key lengths. - Featured Project 35
+  *   **Frequency Analysis:** Applied statistical techniques to evaluate possible key values. - Featured Project 35
+  *   **XOR Operations:** Practiced using bitwise XOR for byte-level encryption and decryption. - Featured Project 35
 
 ---
 
