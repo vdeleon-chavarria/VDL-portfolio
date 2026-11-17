@@ -216,6 +216,11 @@ This lab focuses on implementing Vigenère cipher cryptanalysis using the C prog
 
 For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 130: Lab 1 - Vigenére Cipher](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-130:-Lab-1-%E2%80%90-Vingen%C3%A9re-Cipher)** wiki page.
 
+### 36. CSE 130 - Lab 2: Block Cipher Modes of Operation
+This lab focuses on implementing and analyzing block cipher modes of operation using Python and the Advanced Encryption Standard (AES). The objective is to understand how different encryption modes process data, protect information, and respond to transmission errors. The project explores four encryption modes: Electronic Codebook (ECB), Cipher Block Chaining (CBC), Output Feedback (OFB), and Counter Mode (CTR). Using a grayscale image, the program encrypts and decrypts data, introduces controlled ciphertext corruption, and compares encryption performance. Through this exercise, I gained experience with symmetric-key cryptography, byte manipulation, image processing, error propagation, and performance benchmarking.
+
+For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 130: Lab 2 - Block Cipher](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-130:-Lab-2-%E2%80%90-Block-Cipher)** wiki page.
+
 ---
 
 #### Key Technical Takeaways
@@ -309,6 +314,9 @@ For a complete architectural breakdown, structural component analysis, and sanit
   *   **Index of Coincidence:** Learned how character-frequency patterns can help estimate encryption key lengths. - Featured Project 35
   *   **Frequency Analysis:** Applied statistical techniques to evaluate possible key values. - Featured Project 35
   *   **XOR Operations:** Practiced using bitwise XOR for byte-level encryption and decryption. - Featured Project 35
+  *   **Symmetric-Key Cryptography:** Strengthened my understanding of block ciphers and AES encryption. - Featured Project 36
+  *   **Encryption Modes:** Explored the differences between ECB, CBC, OFB, and CTR modes of operation. - Featured Project 36
+  *   **PyCryptodome:** Gained experience using Python cryptographic libraries for block-level encryption. - Featured Project 36
 
 ---
 
