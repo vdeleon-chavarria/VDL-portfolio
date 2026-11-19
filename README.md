@@ -232,6 +232,11 @@ This lab focuses on developing a lexical scanner using Java to recognize and pro
 
 For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 141: Lab 1 - Scanner](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-141:-Lab-1-%E2%80%90-Scanner)** wiki page.
 
+### 38. CSE 141 - Lab 2: Parser Assignment
+This lab focuses on developing a recursive descent parser using C++ to analyze the syntax of C-like source code. The objective is to understand syntax analysis, context-free grammars, LL(1) parsing, and the role of parsers in the compilation process. The project builds upon lexical analysis by using a scanner to tokenize source code before validating its structure against predefined grammar rules. The program identifies valid syntax, detects parsing errors, and counts variables, functions, and statements. Through this exercise, I gained experience with recursive descent parsing, grammar production rules, FIRST_PLUS sets, token management, and compiler architecture.
+
+For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 141: Lab 2 - Parser](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-141:-Lab-2-%E2%80%90-Parser)** wiki page.
+
 ---
 
 #### Key Technical Takeaways
@@ -332,6 +337,9 @@ For a complete architectural breakdown, structural component analysis, and sanit
   *   **Lexical Scanning:** Learned how source code is processed and divided into recognizable tokens. - Featured Project 37
   *   **Regular Expressions:** Practiced implementing lexical recognition rules for programming language elements. - Featured Project 37
   *   **Token Classification:** Gained experience distinguishing identifiers, reserved words, numbers, symbols, strings, and comments. - Featured Project 37
+  *   **Recursive Descent Parsing:** Learned how recursive functions can validate source code against context-free grammar rules. - Featured Project 38
+  *   **LL(1) Grammars:** Practiced using FIRST_PLUS sets to determine valid grammar productions. - Featured Project 38
+  *   **Lexical Analysis:** Gained experience integrating tokenization with syntax validation. - Featured Project 38
 
 ---
 
