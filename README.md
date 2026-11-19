@@ -32,10 +32,16 @@ This is a list of courses I have taken within UC Merced to help understand the i
 * **Term:** Fall 2025
 * **Course Description:** Explores topics related to both front end and backend web development including web security, scalable architecture, web frameworks, databases, and object relational mappers.
 
-### 3. CSE 130 - Introduction to Cryptography
+### 4. CSE 130 - Introduction to Cryptography
 * **Professor:** Santosh Chandrasekhar
 * **Term:** Spring 2026
 * **Course Description:** Introduces the basic theory and practice of cryptographic techniques used in computer security by exploring the inner workings, mathematical assumptions and foundations of cryptographic primitives and how to use them correctly. Topics include pseudorandom functions, one-way functions, cryptographic hashing, encryption (symmetric and public-key), message integrity, message authentication codes, digital signatures, key management, security protocols and more. Covers the necessary mathematical background, formal definitions of security and proofs of security based on precise definitions and assumptions. A strong mathematical background in probability and statistics is preferred.
+
+### 5. CSE 141 - Introduction to Compiler Construction
+* **Professor:** Pengfei Su
+* **Term:** Spring 2026
+* **Course Description:** Explores basic concepts and techniques in compiler construction. Examines topics such as, lexical analysis, finite automata, parsing, context-sensitive analysis, intermediate representation, code shape analysis, code optimizations, code generation, and register allocation.
+
 ---
 ## Featured Projects
 
@@ -221,6 +227,11 @@ This lab focuses on implementing and analyzing block cipher modes of operation u
 
 For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 130: Lab 2 - Block Cipher](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-130:-Lab-2-%E2%80%90-Block-Cipher)** wiki page.
 
+### 37. CSE 141 - Lab 1: Scanner Assignment
+This lab focuses on developing a lexical scanner using Java to recognize and process tokens from C source code. The objective is to understand lexical analysis, regular expressions, and the role of tokenization in the compilation process. The project uses a scanner to identify programming language elements, including identifiers, reserved words, numbers, symbols, strings, and comments. It also generates modified C source files by transforming identifiers while preserving other recognized tokens. Through this exercise, I gained experience with lexical analysis, character processing, Java classes, regular expressions, and compiler fundamentals.
+
+For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 141: Lab 1 - Scanner](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-141:-Lab-1-%E2%80%90-Scanner)** wiki page.
+
 ---
 
 #### Key Technical Takeaways
@@ -317,6 +328,10 @@ For a complete architectural breakdown, structural component analysis, and sanit
   *   **Symmetric-Key Cryptography:** Strengthened my understanding of block ciphers and AES encryption. - Featured Project 36
   *   **Encryption Modes:** Explored the differences between ECB, CBC, OFB, and CTR modes of operation. - Featured Project 36
   *   **PyCryptodome:** Gained experience using Python cryptographic libraries for block-level encryption. - Featured Project 36
+  *   **Compiler Fundamentals:** Strengthened my understanding of lexical analysis and its role in the compilation process. - Featured Project 37
+  *   **Lexical Scanning:** Learned how source code is processed and divided into recognizable tokens. - Featured Project 37
+  *   **Regular Expressions:** Practiced implementing lexical recognition rules for programming language elements. - Featured Project 37
+  *   **Token Classification:** Gained experience distinguishing identifiers, reserved words, numbers, symbols, strings, and comments. - Featured Project 37
 
 ---
 
