@@ -237,6 +237,11 @@ This lab focuses on developing a recursive descent parser using C++ to analyze t
 
 For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 141: Lab 2 - Parser](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-141:-Lab-2-%E2%80%90-Parser)** wiki page.
 
+### 39. CSE 141 - Lab 3: Gee Parser
+This lab focuses on developing a recursive descent parser for the Gee programming language using Python. The objective is to understand syntax analysis, context-free grammars, expression parsing, and the representation of programming language structures. The project processes Gee source code by identifying tokens, validating statements against predefined grammar rules, and generating structured representations of expressions and control-flow statements. Through this exercise, I gained experience with recursive descent parsing, regular expressions, abstract syntax representations, indentation handling, and compiler fundamentals.
+
+For a complete architectural breakdown, structural component analysis, and sanitized code walkthroughs, view the **[CSE 141: Lab 3 - Gee Parser](https://github.com/vdeleon-chavarria/VDL-portfolio/wiki/CSE-141-%E2%80%90-Lab-3:-Gee-Parser)** wiki page.
+
 ---
 
 #### Key Technical Takeaways
@@ -340,6 +345,10 @@ For a complete architectural breakdown, structural component analysis, and sanit
   *   **Recursive Descent Parsing:** Learned how recursive functions can validate source code against context-free grammar rules. - Featured Project 38
   *   **LL(1) Grammars:** Practiced using FIRST_PLUS sets to determine valid grammar productions. - Featured Project 38
   *   **Lexical Analysis:** Gained experience integrating tokenization with syntax validation. - Featured Project 38
+  *   **Context-Free Grammars:** Practiced interpreting grammar productions written in Backus-Naur Form. - Featured Project 39
+  *   **Regular Expressions:** Applied pattern matching to identify tokens and programming language elements. - Featured Project 39
+  *   **Expression Parsing:** Explored arithmetic, relational, and logical expressions while maintaining operator precedence. - Featured Project 39
+  *   **Object-Oriented Programming:** Used Python classes and inheritance to organize expressions and statements. - Featured Project 39
 
 ---
 
